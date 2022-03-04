@@ -1,0 +1,13 @@
+ Volume in drive C is Windows
+ Volume Serial Number is 6A8A-BD2F
+
+ Directory of C:\Users\azureuser\Desktop\SampleJava
+
+03/04/2022  11:12 AM    <DIR>          .
+03/04/2022  09:44 AM    <DIR>          ..
+03/04/2022  11:12 AM                 0 hi.txt
+03/04/2022  10:11 AM               460 index.txt
+03/04/2022  11:06 AM               898 Mar3.class
+03/04/2022  09:06 AM               128 Mar3.java
+               4 File(s)          1,486 bytes
+               2 Dir(s)  123,159,396,352 bytes free
